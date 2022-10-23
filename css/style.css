@@ -84,6 +84,7 @@
   display: flex;
   width: 100%;
   height: 243px;
+  background: rgba(210, 200, 185, 0.46);
 }
 .content-news-item > img {
   width: 454px;
@@ -91,7 +92,6 @@
 .content-news-item-text-wrapper {
   padding: 34px 19px 32px 20px;
   color: #3c372f;
-  background: rgba(210, 200, 185, 0.46);
 }
 .content-news-item-text-title {
   font-family: "Roboto";
